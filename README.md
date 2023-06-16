@@ -1,4 +1,4 @@
-![Header](./github-header-image(1).png)
+![github-header-image(1)](./github-header-image(1).png)
 ### Hi there 👋, my name is Vaibhav Koneti
 #### I am Data Professional
 Data-driven professional with expertise in data engineering, ETL pipelines, data modeling, and analysis
