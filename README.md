@@ -1,4 +1,4 @@
-![I am Data Professional](https://media.licdn.com/dms/image/D5616AQHnxAMguNebBg/profile-displaybackgroundimage-shrink_350_1400/0/1686927955904?e=1692230400&v=beta&t=mklXhfY7nF_2y1hb-XbCDcScse923yHCbeTf3MiFMVo)
+
 ### Hi there 👋, my name is Vaibhav Koneti
 
 
