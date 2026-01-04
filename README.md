@@ -1,20 +1,7 @@
 ![I am Data Professional](https://media.licdn.com/dms/image/D5616AQHnxAMguNebBg/profile-displaybackgroundimage-shrink_350_1400/0/1686927955904?e=1692230400&v=beta&t=mklXhfY7nF_2y1hb-XbCDcScse923yHCbeTf3MiFMVo)
 ### Hi there 👋, my name is Vaibhav Koneti
-#### I am Data Engineer
 
-Data-driven professional with expertise in data engineering, ETL pipelines, data modeling, and analysis
-is here. A strong background in cloud-based data storage and processing platforms, particularly AWS.
-Efficient data processing and deployment are ensured by leveraging tools like Apache Airflow and
-Docker. Proficiency in Python, Spark, Kafka, API integration, and web scraping techniques is showcased.
-Various file formats, including CSV, JSON, Parquet, Avro, and ORC, are handled. Data quality,
-governance, and security are prioritized with proficiency in SQL and NoSQL databases. Impactful
-solutions are delivered in a cloud-based data environment, driven by strong analytical skills.
 
-Skills: PySpark, Pandas, NumPy, TensorFlow, Matplotlib, Scikit-learn, PyTorch, Spreadsheets, ETL, Data Pipelines with Apache Airflow, Web scraping (Beautiful Soup, urllib), Cloud Technologies (AWS, GCP, Azure), Databricks, Kafka, Cloud Platforms, Snowflake, dbt, SQL and NoSQL Databases, Data Structures and Algorithms, Microsoft Office, Operating Systems, Basic Networks, Project Management Methodologies (Agile, Scrum, Kanban).
-
-- 🔭 I’m currently working on data end to end pipeline on cloud 
-- 🌱 I’m currently learning Aws,GCP,Azure 
-- 🤔 I’m looking for help with Data Engineering Technologies 
 - 📫 How to reach me: vaibhavkoneti@gmail.com 
 
 
